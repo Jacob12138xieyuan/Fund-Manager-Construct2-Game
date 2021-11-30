@@ -1,0 +1,22 @@
+{
+  "name": "fund-manager-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacob12138xieyuan/Fund-Manager-Construct2-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacob12138xieyuan/Fund-Manager-Construct2-Game/issues"
+  },
+  "homepage": "https://github.com/Jacob12138xieyuan/Fund-Manager-Construct2-Game#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
