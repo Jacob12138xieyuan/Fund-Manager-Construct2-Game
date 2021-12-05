@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1638268932
+#1638712489
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -23,6 +23,19 @@ images/backicon-sheet0.png
 images/nexticon-sheet0.png
 images/restartbutton-sheet0.png
 images/instructionbackground-sheet0.png
+images/googlebubble-sheet0.png
+images/nvidiabubble-sheet0.png
+images/goldmanbubble-sheet0.png
+images/board-sheet0.png
+images/rakutenbubble-sheet0.png
+images/ibmbubble-sheet0.png
+images/metabubble-sheet0.png
+images/applebubble-sheet0.png
+images/metabubble2-sheet0.png
+images/microsoftbubble-sheet0.png
+images/rankbutton-sheet0.png
+images/pinerest_bubble-sheet0.png
+images/fish4-sheet0.png
 media/bgm2.ogg
 media/click.ogg
 media/fail.ogg
