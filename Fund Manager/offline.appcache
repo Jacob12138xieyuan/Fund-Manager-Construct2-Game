@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1638754137
+#1645024654
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -36,6 +36,7 @@ images/microsoftbubble-sheet0.png
 images/rankbutton-sheet0.png
 images/pinerest_bubble-sheet0.png
 images/fish4-sheet0.png
+images/sprite-sheet0.png
 media/bgm2.ogg
 media/click.ogg
 media/fail.ogg
@@ -49,5 +50,6 @@ icon-114.png
 icon-128.png
 icon-256.png
 loading-logo.png
+firebase.js
 NETWORK:
 *
