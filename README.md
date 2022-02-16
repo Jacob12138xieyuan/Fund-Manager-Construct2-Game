@@ -2,9 +2,9 @@
 
 This game is developed using Construct2.
 
-### Live Demo: https://xiey0017-ntu-edu-sg.solutions.apixplatform.com/
+### https://yuan-xie-rakuten-com.solutions.apixplatform.com 
 
 ![](1.png)
 ![](2.png)
 
-
+use node index.js to start application server.
