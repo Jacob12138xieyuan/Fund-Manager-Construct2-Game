@@ -2,9 +2,12 @@
 
 This game is developed using Construct2.
 
-### https://yuan-xie-rakuten-com.solutions.apixplatform.com 
+### https://yuan-xie-rakuten-com.solutions.apixplatform.com
 
 ![](1.png)
 ![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
 
-use node index.js to start application server.
+Use `node index.js` to start application server.
