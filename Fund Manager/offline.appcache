@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1648908973
+#1648966417
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -39,6 +39,16 @@ images/fish4-sheet0.png
 images/sprite-sheet0.png
 images/must_read-sheet0.png
 images/note-sheet0.png
+images/gs_price-sheet0.png
+images/google_price-sheet0.png
+images/nvidia_price-sheet0.png
+images/pin_price-sheet0.png
+images/rakuten_price-sheet0.png
+images/meta_price-sheet0.png
+images/ibm_price-sheet0.png
+images/microsoft_price-sheet0.png
+images/apple_price-sheet0.png
+images/pfizer_price-sheet0.png
 media/bgm2.ogg
 media/click.ogg
 media/fail.ogg
