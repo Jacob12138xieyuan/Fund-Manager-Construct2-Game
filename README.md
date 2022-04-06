@@ -4,7 +4,7 @@ This game is developed using Construct2.
 
 Constrct2 is a software that you can easily create games that run in a browser (Construct3 is also available).
 
-Game material and logic are in file, it can be exported into html files.
+Game material and logic are in "Fund Manager.capx" file, it can be exported into html files.
 
 You can download from here: https://www.construct.net/en/construct-2/download
 
