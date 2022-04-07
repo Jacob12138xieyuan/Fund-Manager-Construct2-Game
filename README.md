@@ -10,10 +10,10 @@ You can download from here: https://www.construct.net/en/construct-2/download
 
 ### Live demo: https://yuan-xie-rakuten-com.solutions.apixplatform.com
 
+After clone this repo, first `npm install` then use `node index.js` to start local application server at port 4200.
+
 ![](1.png)
 ![](2.png)
 ![](3.png)
 ![](4.png)
 ![](5.png)
-
-Use `node index.js` to start local application server at port 4200.
